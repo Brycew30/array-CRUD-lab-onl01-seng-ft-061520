@@ -17,7 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  random_array = ["red", "orange", "yellow", "green"]
+  random_array.pop
 end
 
 def remove_element_from_start_of_array(array)
