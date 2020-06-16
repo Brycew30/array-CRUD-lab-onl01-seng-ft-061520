@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
  colors = ["red", "orange", "yellow", "green"]
+ color = "blue"
  colors.push("blue")
 end
 
