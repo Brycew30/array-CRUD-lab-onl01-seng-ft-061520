@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  random_array = ["red", "orange", "yellow", "green"]
+  array = ["wow", "I", "am", "really", "learning"]
   random_array[2]
 end
 
